@@ -1,7 +1,6 @@
 package sync
 
 import (
-	"fmt"
 	"net"
 	"sync"
 	"sync/atomic"
