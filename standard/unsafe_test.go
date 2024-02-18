@@ -1,4 +1,4 @@
-package code_spark
+package standard
 
 import (
 	"testing"
